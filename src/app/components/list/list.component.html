@@ -1,0 +1,22 @@
+<h2>My Contacts</h2>
+<ul class="list" *ngFor="let contact of contacts">
+    <li>
+        <a routerLink="/{{contact.id}}">
+            <span class="badge">{{contact.id}}</span> {{contact.name}}
+        </a>
+        <button class="delete" title="delete" (click)="delete(contact)">x</button>
+    </li>
+</ul>
+
+
+<div>
+    <label for="new-contact-name">Name: </label>
+    <input id="new-contact-name" #contactName>
+    <label for="new-contact-phoneNumber">Phone number: </label>
+    <input id="new-contact-phoneNumber" #contactPhoneNumber>
+
+    <button class="add-button"
+        (click)="add(contactName.value, contactPhoneNumber.value); contactName.value=''; contactPhoneNumber.value=''">
+        Add Contact
+    </button>
+</div>
