@@ -1,66 +1,66 @@
 [
-    {
-        "id": 1,
-        "name": "Hana",
-        "phoneNumber": "559 620 6244",
-        "email": "hmoyle0@typepad.com",
-        "address": "96724 Jenna Alley",
-        "birthday": "1974-04-06"
-    },
-    {
-        "id": 2,
-        "name": "Kristyn",
-        "phoneNumber": "701 222 5542",
-        "email": "ksprowle1@hugedomains.com",
-        "address": "658 Dawn Parkway",
-        "birthday": "1952-12-21"
-    },
-    {
-        "id": 3,
-        "name": "Reynolds",
-        "phoneNumber": "639 670 2713",
-        "email": "rarden2@wordpress.org",
-        "address": "7596 Garrison Alley",
-        "birthday": "1955-11-30"
-    },
-    {
-        "id": 4,
-        "name": "Cammi",
-        "phoneNumber": "318 414 2306",
-        "email": "cchesterman3@unblog.fr",
-        "address": "25 Browning Parkway",
-        "birthday": "2019-07-18"
-    },
-    {
-        "id": 5,
-        "name": "Patty",
-        "phoneNumber": "946 266 4159",
-        "email": "pconeybeer4@amazon.co.jp",
-        "address": "687 Daystar Point",
-        "birthday": "1980-02-19"
-    },
-    {
-        "id": 6,
-        "name": "Herman",
-        "phoneNumber": "787 335 8638",
-        "email": "hettery5@fc2.com",
-        "address": "8 Hazelcrest Way",
-        "birthday": "1993-09-09"
-    },
-    {
-        "id": 7,
-        "name": "Joelynn",
-        "phoneNumber": "861 312 2916",
-        "email": "jwabb6@slate.com",
-        "address": "0196 Farwell Pass",
-        "birthday": "1977-09-07"
-    },
-    {
-        "id": 8,
-        "name": "Ralf",
-        "phoneNumber": "101 907 1627",
-        "email": "rroubeix7@utexas.edu",
-        "address": "03 Gulseth Pass",
-        "birthday": "1964-04-06"
-    }
+  {
+    "id": 1,
+    "name": "Hana",
+    "phoneNumber": "559 620 6244",
+    "email": "hmoyle0@typepad.com",
+    "address": "96724 Jenna Alley",
+    "birthday": "1974-04-06"
+  },
+  {
+    "id": 2,
+    "name": "Kristyn",
+    "phoneNumber": "701 222 5542",
+    "email": "ksprowle1@hugedomains.com",
+    "address": "658 Dawn Parkway",
+    "birthday": "1952-12-21"
+  },
+  {
+    "id": 3,
+    "name": "Reynolds",
+    "phoneNumber": "639 670 2713",
+    "email": "rarden2@wordpress.org",
+    "address": "7596 Garrison Alley",
+    "birthday": "1955-11-30"
+  },
+  {
+    "id": 4,
+    "name": "Cammi",
+    "phoneNumber": "318 414 2306",
+    "email": "cchesterman3@unblog.fr",
+    "address": "25 Browning Parkway",
+    "birthday": "2019-07-18"
+  },
+  {
+    "id": 5,
+    "name": "Patty",
+    "phoneNumber": "946 266 4159",
+    "email": "pconeybeer4@amazon.co.jp",
+    "address": "687 Daystar Point",
+    "birthday": "1980-02-19"
+  },
+  {
+    "id": 6,
+    "name": "Herman",
+    "phoneNumber": "",
+    "email": "hettery5@fc2.com",
+    "address": "8 Hazelcrest Way",
+    "birthday": "1993-09-09"
+  },
+  {
+    "id": 7,
+    "name": "Joelynn",
+    "phoneNumber": null,
+    "email": "jwabb6@slate.com",
+    "address": "0196 Farwell Pass",
+    "birthday": "1977-09-07"
+  },
+  {
+    "id": 8,
+    "name": "Ralf",
+    "phoneNumber": "101 907 1627",
+    "email": "rroubeix7@utexas.edu",
+    "address": "03 Gulseth Pass",
+    "birthday": "1964-04-06"
+  }
 ]
